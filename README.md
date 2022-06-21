@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebahtiyar
-- 👀 I’m interested in image processing and NLP
+- 👀 I’m interested in Computer Vision and NLP
 - 🌱 I’m currently learning deep learning algorithms
 - 📫 How to reach me emrebahtiyar2009@gmail.com
 
